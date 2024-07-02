@@ -258,7 +258,11 @@ To freeze your credit, contact:
 ### Consider opting out of direct marketing and telemarketing.
 This list, compiled by Griffin Boyce, has a lot of information on doing so: [https://github.com/glamrock/data-brokers/blob/master/data-brokers.md](https://github.com/glamrock/data-brokers/blob/master/data-brokers.md). It was last updated in 2019.
 
-You can also opt out of targeted ads using cookies and similar technology at the browser level at https://optout.aboutads.info.
+You can also opt out of targeted ads using cookies and similar technology at the browser level at https://optout.aboutads.info. (This opt out will have limited effects if your browser does not have third-party cookies.)
+
+### Opt out of the sale and sharing of your personal information.
+
+[Global Privacy Control](https://globalprivacycontrol.org/) automatically sends an opt-out preference signal, legally enforceable in some states. It is equivalent to clicking the "Do not sell or share my personal information" links on all sites you visit.
 
 ### Opt out of prescreened credit offers
 Follow the instructions at [https://www.optoutprescreen.com/](https://www.optoutprescreen.com/)
